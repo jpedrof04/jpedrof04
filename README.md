@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm JP</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=500&color=0D1117&center=true&vCenter=true&width=500&lines=Back-End+Developer;C%23+%7C+.NET;Cloud+%26+AWS" />
+</p>
+
 <h3 align="center">Back-End Developer from Brazil 🇧🇷</h3>
 
 <p align="center">
@@ -9,7 +14,7 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,python,aws,docker,postgres,mysql,linux,git" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,python,c,cpp,lua,aws,docker,postgres,mysql,linux,git" />
 </p>
 
 ---
