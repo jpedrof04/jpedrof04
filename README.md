@@ -13,9 +13,11 @@
 <br/>
 <br/>
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=jpedrof04&show_icons=true&hide_border=true&bg_color=080010&title_color=9933ff&icon_color=cc66ff&text_color=bb88dd&ring_color=9933ff"/>
-&nbsp;&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrof04&layout=compact&hide_border=true&bg_color=080010&title_color=9933ff&text_color=bb88dd&langs_count=6"/>
+ <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najumattos/najumattos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/najumattos/najumattos/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br/><br/>
 
