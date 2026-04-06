@@ -8,7 +8,7 @@
 
 <br/>
 
-<p align="center"><img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,python,c,cpp,lua,aws,docker,postgres,mysql,linux,git" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,python,c,aws,docker,postgres,mysql,linux,git" /></p>
 
 <br/>
 <br/>
