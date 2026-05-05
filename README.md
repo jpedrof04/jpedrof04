@@ -22,7 +22,8 @@
 
 <br/>
 <br/>
-
+<p>https://jpedrof04.netlify.app/</p>
+<h1>meu portfolio👍</h1>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080010,50:3b0080,100:080010&height=80&section=footer"/>
 
 </div>
