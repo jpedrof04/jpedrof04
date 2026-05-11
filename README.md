@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=jpedrof04&fontSize=70&color=0:000000,40:1a1a1a,75:666666,100:000000&fontColor=ffffff&animation=fadeIn&desc=back-end%20developer%20%7C%20brasil&descSize=18&descAlignY=80&descFontColor=d9d9d9" width="100%"/>
-
+ 
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=codando+minha+vida+%E2%9A%AA;backend+%7C+.net+%7C+linux;sempre+aprendendo+algo+novo)](https://github.com/jpedrof04)
