@@ -8,8 +8,7 @@
 
 <br/>
 <br/>
-
-<img src="https://skillicons.dev/icons?i=cs,c,dotnet,react,nextjs,mysql,linux,git,github,firebase,vscode,lua,cloudflare,aws&theme=dark&perline=14" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,c,linux,bash,docker,kubernetes,nginx,cloudflare,aws,git,github,githubactions,mysql,postgres,redis,postman,vscode&theme=dark&perline=9"  />
 
 <br/>
 <br/>
