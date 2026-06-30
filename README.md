@@ -8,8 +8,7 @@
 
 <br/>
 <br/>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,rust,ruby,rails,c,linux,bash,cloudflare,aws,git,github,githubactions,mysql,postgres,vscode&theme=dark&perline=10"  />
-
+<img src="https://skillicons.dev/icons?i=cs,dotnet,rust,ruby,rails,c,cpp,linux,debian,arch,bash,bun,bootstrap,nginx,cloudflare,aws,git,github,githubactions,mysql,postgres,neovim,obsidian,notion,vscode&theme=dark&perline=10" />
 <br/>
 <br/>
 
