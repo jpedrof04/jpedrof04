@@ -12,8 +12,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,ruby,rails,python,linux,bash,docker,postgres,git,githubactions,nginx,arch&theme=dark"/>
-
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,visualstudio,rust,ruby,rails,python,linux,bash,docker,postgres,git,githubactions,nginx,arch&theme=dark"/>
 </div>
 
 ---
