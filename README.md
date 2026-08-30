@@ -12,8 +12,15 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,visualstudio,rust,ruby,rails,python,linux,bash,docker,postgres,git,githubactions,nginx,arch&theme=dark"/>
-</div>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,rust,ruby,ts,java" />
+
+
+
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,cmake,git,github,vscode,visualstudio" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,dotnet,rails,nodejs,nextjs,angular,arduino" /></div>
 
 ---
 
@@ -23,13 +30,9 @@
 
 <br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jpedrof04&theme=github_dark"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jpedrof04&theme=github_dark"/>
 
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jpedrof04&show_icons=true&theme=dark&bg_color=000000&title_color=ff3b3b&text_color=ffffff&icon_color=ff3b3b&border_color=222222"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=jpedrof04&theme=highcontrast&hide_border=true&background=000000&ring=FF3B3B&fire=FF3B3B&currStreakLabel=FFFFFF"/>
 
