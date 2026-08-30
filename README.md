@@ -41,8 +41,10 @@
 ---
 
 <div align="center">
+<a href="https://github.com/jpedrof04">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+</a>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jpedrof04&bg_color=000000&color=ffffff&line=ff3b3b&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
@@ -54,9 +56,6 @@
 <img src="https://img.shields.io/badge/Portfolio-FF3B3B?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
 </a>
 
-<a href="https://github.com/jpedrof04">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
-</a>
 
 </div>
 
